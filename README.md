@@ -2,7 +2,7 @@ Makes the [Trash Cans Mod](https://modrinth.com/mod/trash-cans) look More out of
 
 Working on a datapack in the future to make the crafting recipe use Create components
 
-Right Now It only supports 1.21/1.21.1 but working on a 1.20.1 version
+Supports 1.20.1 and 1.21.1. I do not plan on adding support to 1.19/before but it still may work on those versions.
 
 
 
