@@ -12,7 +12,6 @@ Supports 1.20.1 and 1.21.1. I do not plan on adding support to 1.19/before but i
 
 #### Links:
 
-- Modrinth: [Create Trash Cans](https://modrinth.com/resourcepack/create-trash-cans)
 - Curseforge: [Create Trash Cans](https://www.curseforge.com/minecraft/texture-packs/create-trash-cans)
 
 ---
